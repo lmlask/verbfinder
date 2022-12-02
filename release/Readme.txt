@@ -26,7 +26,7 @@ is pre-cleaned. Right click and print page as pdf.
 - If you MUST run a scanned PDF through the program, it must have recognized
 text.
 - Rename source files before running the program. Filenames longer than 200
-chars will break the program :(
+chars will break the app :(
 - Remember to eat and stay hydrated
 - Don't rename or move the folders.
 - If you run the program with files still in the output_docs folder, it'll
